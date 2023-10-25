@@ -53,6 +53,6 @@ React Router: O React Router é usado para a navegação no lado do cliente, per
 * A aplicação estará acessível em um navegador da web em http://localhost:5174.
 
 <p align="center">
-  <img width="450" height="300" src="src/assets/list-operations.gif">
+  <img width="550" height="400" src="src/assets/list-operations.gif">
 </p>
 
